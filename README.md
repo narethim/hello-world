@@ -12,8 +12,14 @@ Hello there.
 Hi there 1
 Hi there 2
 
-  $ some command here
+Here are some command:
+
+    $ packer build ubuntu.json
   
 ## And add some more text here
 Hiya there 1
 Hiya there 2
+
+    $ packer validate ubuntu.json
+    $ packer build ubuntu.json  
+
